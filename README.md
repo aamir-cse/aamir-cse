@@ -82,7 +82,7 @@
 
 
 
-## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+## 📝 PROJECT's ZONE (Working on 10+ Persional Projects)
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|

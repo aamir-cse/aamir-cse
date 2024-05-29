@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Mohd Aamir</b></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Shaikh Aamir</b></h1>
 <h4 align="center"><b>Software Engineer 👨‍💻 | Problem Solving Enthusiast 🧠 | 100DaysOfCode+ on @LeetCode  | College Topper  | 100+ Problems Solved on DSA  | HardCore DSA Lover ❤️ | 1.5K @LinkedIn  | 75DayPlacementChallenge 🔥</b>
 </b></h4>   
 

@@ -31,7 +31,7 @@
 - 👁‍🗨 What's Special about me? <br> 
 - Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 - 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
-- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** 
+- 📘 I’m Currently learning **Java 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Gymnastic, Touch Typing, Mems**
 

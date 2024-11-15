@@ -30,7 +30,7 @@
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 👁‍🗨 What's Special about me? <br> 
 - Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
-- 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
+- 📘 I’m Currently  working as a SDE at  **EbixCash(via.com)** .
 - 📘 I’m Currently learning **Java 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Gymnastic, Touch Typing, Mems**

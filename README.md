@@ -89,7 +89,7 @@
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
 |🚗 Car-Rental-System [**🔗**](https://github.com/aamir-cse/Car-Rental-System.git)) | 🌐  Portfolio [**🔗**](https://aamirportfolio1.netlify.app/) |
-| 🌐 Beautiful Card  [**🔗**](https://aamir-beautifulcard.netlify.app/) | 🌐 Share Modal [**🔗**](https://aamir-sharemodal.netlify.app/) | 
+| 🌐 SpringDI-CMS  [**🔗**](https://github.com/aamir-cse/RealTimeDI-Project/tree/main) | 🌐 Share Modal [**🔗**](https://aamir-sharemodal.netlify.app/) | 
 | 🌐 Weather App [**🔗**](https://aamir-weatherapp.netlify.app/) | 🌐 Counter App [**🔗**](https://aamir-counter.netlify.app/) | 
 | 🌐 To-Do List [**🔗**](https://aamirtodo.netlify.app/) |  🌐 Password Generator [**🔗**](https://passwordaamir.netlify.app/) | 
 | 🌐 Tick-Tack-Too Game using Dev [**🔗**](https://aamirgame.netlify.app/) |  🌐 Tin Dog Star [**🔗**](https://aamir-dogstar.netlify.app/) | 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shaikh%20Aamir&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Java%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md%20Aamir&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Java%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" />
 
 </div>
 
@@ -10,7 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aamir-cse)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web_developers_118/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdaamircse@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aamirportfolio1.netlify.app/)
 
 </div>
 
@@ -19,15 +18,15 @@
 ## 👨‍💻 About Me
 
 ```java
-public class ShaikhAamir extends SoftwareEngineer {
+public class MdAamir extends SoftwareEngineer {
 
     String  role        = "SDE-1 @ via.com (EbixCash)";
     String  location    = "India 🇮🇳";
     String  passion     = "DSA • Java Backend • Problem Solving";
 
-    String[] currentlyLearning = { "Advanced Java", "Spring Ecosystem", "System Design" };
-    String[] lookingFor        = { "Open Source Collaborations", "Backend Projects" };
-    String[] funFacts          = { "Gymnastic enthusiast", "Touch Typing nerd", "Meme connoisseur" };
+    String[] currentlyLearning = { "DSA", "Spring Ecosystem", "System Design" };
+    String[] lookingFor        = { "Open Source Collaborations", "Backend Projects" , "Startup with fire energetic team" };
+    String[] funFacts          = { "Gymnastic enthusiast", "Touch Typing nerd", "8 Ball Pool Lover" };
 
     String superpower() {
         return "Rapidly mastering new skills and deploying them to solve real-world problems.";
@@ -45,10 +44,10 @@ public class ShaikhAamir extends SoftwareEngineer {
 |---|---|
 | 💼 **Current Role** | SDE-1 at **via.com (EbixCash)** |
 | 🎓 **Academic Standing** | College Topper — Rank 4 (Academic & Coding) |
-| 🔥 **75 Days Placement Challenge** | Completed ✅ |
 | 🟡 **100+ Days of Code** | on LeetCode ✅ |
 | 💡 **DSA Problems Solved** | 100+ Problems |
-| 🤝 **LinkedIn Network** | 1.5K+ Followers |
+| 🤝 **LinkedIn Network** | 2.2K+ Followers |
+| 🔥 **75 Days Placement Challenge** | Completed ✅ |
 
 </div>
 
@@ -117,7 +116,7 @@ public class ShaikhAamir extends SoftwareEngineer {
 |---|---|---|
 | [🛒 E-Commerce Platform *(In Progress)*](https://github.com/aamir-cse/-Frontend-of-a-full-stack-e-commerce-application.git) | React • Spring Boot • MySQL • REST API | Full-stack shopping platform — Frontend ✅ complete, Backend 🔧 in active development |
 | [📋 Employee Management System](https://github.com/aamir-cse/Employee-Management-System-EMS-.git) | Java • Spring Boot • Spring Data JPA • MySQL | Production-grade full-stack EMS with complete CRUD, role management & REST APIs |
-| [💳 Razorpay Payment Integration](https://github.com/aamir-cse/RazorpayPaymentGateways.git) | Spring Boot • Razorpay API • REST • Webhooks | End-to-end payment gateway with order creation, signature verification & webhook handling |
+| [💳 Razorpay Payment Integration](https://github.com/aamir-cse/RazorpayPaymentGateways.git) | Spring Boot • Razorpay API • REST • Webhooks | End-to-end payment gateway with order creation |
 
 ---
 
@@ -134,6 +133,7 @@ public class ShaikhAamir extends SoftwareEngineer {
 | [🔐 Password Generator](https://passwordaamir.netlify.app/) | JavaScript | Secure random password generator |
 | [🎮 Tic-Tac-Toe Game](https://aamirgame.netlify.app/) | React | Two-player browser game |
 | [🐶 Tin Dog](https://aamir-dogstar.netlify.app/) | HTML • CSS • Bootstrap | Tinder-style landing page — just for fun! |
+| [🌐 Portfolio](https://aamirportfolio1.netlify.app/) | HTML • CSS • JavaScript | Personal developer portfolio showcasing skills & projects |
 
 ---
 

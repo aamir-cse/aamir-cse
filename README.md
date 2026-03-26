@@ -115,7 +115,7 @@ public class MdAamir extends SoftwareEngineer {
 | 🔗 Project | 🛠️ Tech Stack | 📄 Description |
 |---|---|---|
 | [🛒 E-Commerce Platform *(In Progress)*](https://github.com/aamir-cse/-Frontend-of-a-full-stack-e-commerce-application.git) | React • Spring Boot • MySQL • REST API | Full-stack shopping platform — Frontend ✅ complete, Backend 🔧 in active development |
-| [📋 Employee Management System](https://github.com/aamir-cse/Employee-Management-System-EMS-.git) | Java • Spring Boot • Spring Data JPA • MySQL | Production-grade full-stack EMS with complete CRUD, role management & REST APIs |
+| [📋 Employee Management System](https://github.com/aamir-cse/Employee-Management-Java-Spring-Maven.git) | Java • Spring Boot • Spring Data JPA • MySQL | Production-grade full-stack EMS with complete CRUD, role management & REST APIs |
 | [💳 Razorpay Payment Integration](https://github.com/aamir-cse/RazorpayPaymentGateways.git) | Spring Boot • Razorpay API • REST • Webhooks | End-to-end payment gateway with order creation |
 
 ---
